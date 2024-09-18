@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahitya-bhandarkar
 - 👀 I’m interested in Azure PAAS and Azure DevOps
-- 🌱 I’m currently learning Azure Resource deployment using bicep
+- 🌱 Currently honing architectural skills
 
 
 <!---
