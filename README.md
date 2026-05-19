@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahitya-bhandarkar
-- 👀 I’m interested in Azure PAAS and Azure DevOps
-- 🌱 Currently honing architectural skills
+- 👀 I’m interested in Web Development, Azure Cloud, DevSecOps an Agentic AI
+
 
 
 <!---
